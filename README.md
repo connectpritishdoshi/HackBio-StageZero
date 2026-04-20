@@ -3,9 +3,9 @@ Stage Zero artifacts for the HackBio Internship, featuring Python scripting and 
 
 This repository houses following main artifacts:
 
-intro_script.py: A Python script utilizing f-strings to output researcher credentials, including affiliation and a designated gene of interest.
+simple_code.py: A Python script utilizing f-strings to output my credentials, including affiliation and a designated gene of interest.
 
-When_DNA_Meets_AI.md: A technical article titled "When DNA Meets AI: Can Computers Read the Language of Life?". 
+essay.md: A technical article titled "When DNA Meets AI: Can Computers Read the Language of Life?". 
 This piece explores how large language models and advanced AI (like AlphaFold 3) are being trained on genomic sequences to decode human biology, predict disease, and engineer new gene-editing tools.
 
 Technologies Used
