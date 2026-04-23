@@ -12,3 +12,7 @@ Recent breakthroughs prove just how powerful this is. Google DeepMind’s AlphaF
 
 #Conclusion
 We are entering a brand new era of medicine where AI doesn't replace human scientists; it gives them a superpower. By decoding our DNA at lightning speed, AI is turning a confusing string of letters into an open book. Imagine medicine built just for you, tuned to the slightest variation in your DNA. Imagine preventing diseases decades before they appear, and using AI to safely rewrite life's blueprint. With these tools, we are not just reading the language of life - we are changing how we age, heal, and live.
+
+#References
+a) Profluent Bio: https://www.profluent.bio/media/editing-the-human-genome-with-ai
+b) Google DeepMind - AlphaFold 3: https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/
