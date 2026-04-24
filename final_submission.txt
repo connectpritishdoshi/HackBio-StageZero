@@ -1,0 +1,56 @@
+Part 1: Python Script
+Requirement: Write a simple Python script for printing the names, affiliation, and the name of the genes you love most.
+
+team_aspartic_acid = [
+    {
+        "name": "Pritish Doshi",
+        "affiliation": "a Senior Data Architect from University of Mumbai",
+        "favorite_gene": "BRCA2",
+        "organism": "Homo sapiens"
+    },
+    {
+        "name": "Gauri Jagtap",
+        "affiliation": "a Data Engineer Lead from University of Mumbai",
+        "favorite_gene": "HER2",
+        "organism": "Homo sapiens"
+    }
+]
+
+print("--- Team Aspartic Acid Introductions ---\n")
+
+# A 'for' loop iterates through the list and prints the formatted string for each team member
+for member in team_aspartic_acid:
+    output_message = f"Hi, my name is {member['name']}, {member['affiliation']}. My favorite gene is {member['favorite_gene']} in {member['organism']}.\n"
+    print(output_message)
+
+
+Part 2: Technical Article
+TITLE: When DNA Meets AI: Can Computers Read the Language of Life?
+
+INTRODUCTION
+Inside every cell of our body lies a giant instruction manual that tells our body how to grow, function, and heal. This manual is our DNA, and instead of English, it is written in a simple code using just four letters: A, T, C, and G. For decades, scientists had to read this massive, three-billion-letter manual word by word. Today, scientists are using Artificial Intelligence (AI) as a super-fast translator to read the entire genetic manual at once.
+
+MAIN BODY
+To understand how this works, think about how smart chatbots operate. Programs like ChatGPT learned human language by reading millions of books until they perfectly mastered grammar. Scientists are now applying this exact same logic to biology. Instead of reading books, AI is fed millions of DNA sequences.
+
+The AI reads these sequences and learns the "grammar" of human biology. Because the human DNA manual is incredibly long, human eyes can easily miss the subtle patterns hidden inside. AI, however, excels at finding them. It acts as an advanced biological spell-checker, spotting a single "typo" in our DNA and instantly predicting whether that tiny mistake is harmless or if it might trigger a disease like cancer.
+
+The Benefits of AI in Genomics
+The biggest benefit of AI is its speed and predictive power. For example, Google DeepMind’s AlphaFold 3 doesn't just read genetic sequences; it predicts how the biological structures built by our DNA will interact with life-saving medications. Furthermore, researchers at Profluent Bio recently used AI to design a completely new, artificial gene-editing tool. The AI wrote a functional biological sequence from scratch—something that would have taken humans years of trial and error to invent.
+
+The Limitations of AI in Genomics
+However, AI in genomics has real limitations. An AI is only as smart as the data it learns from. Currently, most of the world's genomic databases are heavily made up of DNA from people of European descent. If an AI learns mostly from this single group, its medical predictions might be biased and highly inaccurate for people of other ethnicities. Because of this limitation, AI cannot be blindly trusted; human scientists are still absolutely necessary to verify the AI's predictions in a real lab to ensure they are safe for everyone.
+
+CONCLUSION
+We are entering a brand new era of medicine where AI doesn't replace human scientists; it gives them a superpower. By decoding our DNA at lightning speed, AI is turning a confusing string of letters into an open book. While we must be careful to use diverse data to train these tools, AI offers the incredible promise of personalized medicine. Soon, we may be able to catch diseases decades before they appear and create treatments tuned to the exact variations in your personal DNA.
+
+REFERENCES
+
+Profluent Bio: https://www.profluent.bio/media/editing-the-human-genome-with-ai
+
+Google DeepMind - AlphaFold 3: https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/
+
+Part 3: Project Links
+GitHub Repository: https://github.com/connectpritishdoshi/HackBio-StageZero.git
+
+LinkedIn Post: https://www.linkedin.com/posts/pritish-doshi-677141261_genomics-ai-evolution-share-7453024228955549696-bZRZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBFKnsBFZ68F9hJGtmSDgUNXsOibiESOOA
