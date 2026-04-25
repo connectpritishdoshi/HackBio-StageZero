@@ -1,18 +1,24 @@
-**When DNA Meets AI: Can Computers Read the Language of Life?**
+**Title: When DNA Meets AI: Can Computers Read the Language of Life?**
 
 *Introduction*
-Inside every cell of our body lies a vast, elegant code - three billion letters long, quietly shaping our existence. This code, our genome, is the story of how a simple molecular language built oceans of diversity and continues to dictate our health today. For decades, scientists treated our DNA like a giant instruction manual written in just four letters: A, T, C, and G, painstakingly trying to read it word by word. But genomics is no longer just a subject of curiosity; it is the foundation of the future. Today, scientists are using Artificial Intelligence (AI) as a super-fast translator to read the entire manual at once.
+Inside every cell of our body lies a giant instruction manual that tells our body how to grow, function, and heal. This manual is our DNA, and instead of English, it is written in a simple code using just four letters: A, T, C, and G. For decades, scientists had to read this massive, three-billion-letter manual word by word. Today, scientists are using Artificial Intelligence (AI) as a super-fast translator to read the entire genetic manual at once.
 
 *Main Body*
-To understand how this works, think about how smart chatbots operate. Programs like ChatGPT learned human language by analyzing millions of books until they perfectly mastered grammar. Now, scientists are applying the exact same logic to biology.
+To understand how this works, think about how smart chatbots operate. Programs like ChatGPT learned human language by reading millions of books until they perfectly mastered grammar. Scientists are now applying this exact same logic to biology. Instead of reading books, AI is fed millions of DNA sequences.
 
-Instead of reading text, AI is fed millions of DNA sequences to learn the "grammar" of life. Because the human DNA manual is incredibly long, human eyes can easily miss the subtle patterns hidden inside. AI, however, excels at finding them. It acts as an advanced biological spell-checker, spotting a single "typo" in our DNA and instantly predicting whether that tiny mistake is harmless or if it might trigger a disease like cancer.
+The AI reads these sequences and learns the "grammar" of human biology. Because the human DNA manual is incredibly long, human eyes can easily miss the subtle patterns hidden inside. AI, however, excels at finding them. It acts as an advanced biological spell-checker, spotting a single "typo" in our DNA and instantly predicting whether that tiny mistake is harmless or if it might trigger a disease like cancer.
 
-Recent breakthroughs prove just how powerful this is. Google DeepMind’s AlphaFold 3 doesn't just read genetic sequences; it predicts how the biological structures built by our DNA will interact with life-saving medications. Even more remarkably, researchers at Profluent Bio recently used an AI model to design an entirely new, artificial gene-editing tool from scratch. The AI literally wrote a functional biological sequence—a feat that would have taken humans years of trial and error to invent.
+*The Benefits of AI in Genomics*
+The biggest benefit of AI is its speed and predictive power. For example, Google DeepMind’s AlphaFold 3 doesn't just read genetic sequences; it predicts how the biological structures built by our DNA will interact with life-saving medications. Furthermore, researchers at Profluent Bio recently used AI to design a completely new, artificial gene-editing tool. The AI wrote a functional biological sequence from scratch—something that would have taken humans years of trial and error to invent.
+
+*The Limitations of AI in Genomics*
+However, AI in genomics has real limitations. An AI is only as smart as the data it learns from. Currently, most of the world's genomic databases are heavily made up of DNA from people of European descent. If an AI learns mostly from this single group, its medical predictions might be biased and highly inaccurate for people of other ethnicities. Because of this limitation, AI cannot be blindly trusted; human scientists are still absolutely necessary to verify the AI's predictions in a real lab to ensure they are safe for everyone.
 
 *Conclusion*
-We are entering a brand new era of medicine where AI doesn't replace human scientists; it gives them a superpower. By decoding our DNA at lightning speed, AI is turning a confusing string of letters into an open book. Imagine medicine built just for you, tuned to the slightest variation in your DNA. Imagine preventing diseases decades before they appear, and using AI to safely rewrite life's blueprint. With these tools, we are not just reading the language of life - we are changing how we age, heal, and live.
+We are entering a brand new era of medicine where AI doesn't replace human scientists; it gives them a superpower. By decoding our DNA at lightning speed, AI is turning a confusing string of letters into an open book. While we must be careful to use diverse data to train these tools, AI offers the incredible promise of personalized medicine. Soon, we may be able to catch diseases decades before they appear and create treatments tuned to the exact variations in your personal DNA.
 
 *References*
-a) Profluent Bio: https://www.profluent.bio/media/editing-the-human-genome-with-ai
-b) Google DeepMind - AlphaFold 3: https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/
+
+Profluent Bio: https://www.profluent.bio/media/editing-the-human-genome-with-ai
+
+Google DeepMind - AlphaFold 3: https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/
